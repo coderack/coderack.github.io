@@ -3,7 +3,7 @@ title: CORED
 subtitle: Website Design
 layout: default
 "modal-id": 1
-date: {}
+date: 2015-01-01
 img: dreams.png
 thumbnail: "dreams-thumbnail.png"
 alt: "image-alt"
