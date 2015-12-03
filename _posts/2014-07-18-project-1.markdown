@@ -15,7 +15,7 @@ published: true
 ---
 
 
+
 We built a mobile application using an html5 hybrid application called ionic. CORED truly is “the Guidance Counselor In Your Pocket.” It is the most sophisticated and personable college finder app for discovering schools, connecting with other students looking for schools, and finding your perfect match.
 
 CORED is a college finder, yes; but it is really so much more. Your run-of-the-mill college finder has limited information on schools and doesn’t allow much room for you to customize your experience and express your personality. We are a college finder that matches you to schools, not the other way around. Take fun, quirky quizzes, connect with peers and current college students, and see specifically how and why you match with colleges. Learn about them, get a better grasp of what’s out there, and have fun in the process.
-
