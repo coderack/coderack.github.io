@@ -278,23 +278,25 @@ header {
 header .intro-text {
     padding-top: 100px;
     padding-bottom: 50px;
+    width: 100%;
 }
 
 header .intro-text .intro-lead-in {
+    padding-top: -125px;
     margin-bottom: 25px;
     font-family: "Droid Serif","Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 22px;
     font-style: italic;
-    line-height: 22px;
 }
 
 header .intro-text .intro-heading {
     margin-bottom: 25px;
-    text-transform: uppercase;
     font-family: Montserrat,"Helvetica Neue",Helvetica,Arial,sans-serif;
     font-size: 50px;
     font-weight: 700;
     line-height: 50px;
+    border: 5px solid;
+    background-color: rgba(0,0,0,.7);
 }
 
 @media(min-width:768px) {
