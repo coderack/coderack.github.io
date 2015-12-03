@@ -862,3 +862,8 @@ img::-moz-selection {
 body {
     webkit-tap-highlight-color: #{{ site.color.primary }};
 }
+
+img.img-team {
+  height: 175px;
+  width: 175px;
+}
