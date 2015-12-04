@@ -1,9 +1,9 @@
 ---
-title: Startup Framework
+title: GiveBackTime
 subtitle: Website Application
 layout: default
 "modal-id": 5
-date: 2014-07-14T00:00:00.000Z
+date: {}
 img: "startup-framework.png"
 thumbnail: "startup-framework-thumbnail.png"
 alt: "image-alt"
@@ -14,3 +14,4 @@ description: "GiveBackTime is a website application connecting Organizations and
 published: true
 ---
 
+Coderack created a website application off an idea to connect Non Profit Organizations with Volunteers to create communities to come together online. This way tracking events, vounteers, and data would help Organizations. Volunteers are able to also keep tabs on their favorite Organizations and donate their time more easily so they can focus on the differnce making aspects of volunteering.
