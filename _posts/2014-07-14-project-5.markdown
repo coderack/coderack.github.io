@@ -3,7 +3,7 @@ title: Give Back Time
 subtitle: Website Application
 layout: default
 "modal-id": 5
-date: {}
+date: 2015-02-15T00:00:00.000Z
 img: "startup-framework.png"
 thumbnail: "startup-framework-thumbnail.png"
 alt: "image-alt"
