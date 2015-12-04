@@ -1,6 +1,6 @@
 ---
 title: College Measures
-subtitle: Website Design
+subtitle: Website Application
 layout: default
 "modal-id": 3
 date: 2014-07-16T00:00:00.000Z
