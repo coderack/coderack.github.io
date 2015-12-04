@@ -1,9 +1,9 @@
 ---
 title: CORED
-subtitle: Website Design
+subtitle: Web and Mobile Application
 layout: default
 "modal-id": 1
-date: 2015-01-01
+date: 2015-01-01T00:00:00.000Z
 img: dreams.png
 thumbnail: "dreams-thumbnail.png"
 alt: "image-alt"
@@ -13,6 +13,7 @@ category: Web Development
 description: "CORED truly is “the Guidance Counselor In Your Pocket.” It is the most sophisticated and personable college finder app for discovering schools, connecting with other students looking for schools, and finding your perfect match. "
 published: true
 ---
+
 
 
 

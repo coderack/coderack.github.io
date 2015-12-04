@@ -1,15 +1,16 @@
 ---
-title: Escape
-subtitle: Website Design
+title: Emailium
+subtitle: Website Application
 layout: default
-modal-id: 2
-date: 2014-07-17
+"modal-id": 2
+date: 2014-07-17T00:00:00.000Z
 img: escape.png
-thumbnail: escape-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
+thumbnail: "escape-thumbnail.png"
+alt: "image-alt"
+"project-date": April 2014
+client: Emailium
 category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+description: "We took an existing email account and an old codebase and built the new and improved version of Emailium.  Emailium provides everything you need to improve your next email campaign, find html email design inspiration, track email marketing statistics by industry, and gain email intelligence on your competitors"
+published: true
 ---
+
