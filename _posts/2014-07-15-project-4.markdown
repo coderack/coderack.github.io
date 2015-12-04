@@ -1,15 +1,17 @@
 ---
-title: Treehouse
-subtitle: Website Design
+title: Tireconsumer
+subtitle: Website Applicataion
 layout: default
-modal-id: 4
-date: 2014-07-15
+"modal-id": 4
+date: 2014-07-15T00:00:00.000Z
 img: treehouse.png
-thumbnail: treehouse-thumbnail.png
-alt: image-alt
-project-date: April 2014
+thumbnail: "treehouse-thumbnail.png"
+alt: "image-alt"
+"project-date": April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Website Applicataion
+description: "We built a tire search engine from scratch.  In this project we needed to take a huge dataset of tires and automobiles and build a user-friendly search engine around the data."
+published: true
 ---
+
+Tireconsumer’s aim is to be a website where consumers can research tires, compare prices and information, then decide whether to make a purchase and from where. Instead of buying the tires on the website, however, the consumer is directed to local tire dealerships that carry what they’re looking for. This lets consumers shop from the convenience of their homes, but gives the unit sale to the tire dealer.
