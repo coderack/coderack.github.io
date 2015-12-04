@@ -1,15 +1,17 @@
 ---
-title: Golden
+title: College Measures
 subtitle: Website Design
 layout: default
-modal-id: 3
-date: 2014-07-16
+"modal-id": 3
+date: 2014-07-16T00:00:00.000Z
 img: golden.png
-thumbnail: golden-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+thumbnail: "golden-thumbnail.png"
+alt: "image-alt"
+"project-date": April 2014
+client: AIR (American Institutes for Research)
+category: Website Application
+description: "College Measures is an application that helps students and current professionals define a career path using Education, Skill and Wage data to determine an ROI on education and skills based on their current state."
+published: true
 ---
+
+Coderack is building a white label web application tool that helps students and current professionals define a career path using Education, Skill and Wage data to determine an ROI on education and skills based on their current state. AIR had produced a 1.0 version that wasn’t as successful in reaching the audience they had hoped.  In reaching out to the software development community  they selected Coderack to partner with and build them a more modern engaging version with enhanced functionality. Their goal was to align better with a younger audience and show the value of the tool through immediate and simple visualizations of data. Coderack is helping AIR achieve those goals in creating a comprehensive, innovative, and intuitive web application.
