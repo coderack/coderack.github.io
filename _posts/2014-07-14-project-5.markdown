@@ -1,15 +1,16 @@
 ---
 title: Startup Framework
-subtitle: Website Design
+subtitle: Website Application
 layout: default
-modal-id: 5
-date: 2014-07-14
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
-alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+"modal-id": 5
+date: 2014-07-14T00:00:00.000Z
+img: "startup-framework.png"
+thumbnail: "startup-framework-thumbnail.png"
+alt: "image-alt"
+"project-date": April 2014
+client: GiveBackTime
+category: Website Application
+description: "GiveBackTime is a website application connecting Organizations and Volunteers. It has multiple components for Organizations for event management, volunteer tracking, and data gathering. Our site provides a simple and consistent way to find volunteers to fill your organization’s needs. It also provides a way for Volunteers to easily sign up and track their favorite causes and events."
+published: true
 ---
+
