@@ -1,15 +1,16 @@
 ---
-title: Round Icons
-subtitle: Graphic Design
+title: Youfolo
+subtitle: Mobile Application
 layout: default
-modal-id: 6
-date: 2014-07-15
+"modal-id": 6
+date: 2014-07-15T00:00:00.000Z
 img: roundicons.png
-thumbnail: roundicons-thumbnail.png
-alt: image-alt
-project-date: April 2014
+thumbnail: "roundicons-thumbnail.png"
+alt: "image-alt"
+"project-date": April 2014
 client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
-
+category: Mobile Application
+description: "Inerview or Lecture recording app that innovates workflow to attach documents, notes, and files to a recording that are related to the specific areas of the recording. Great for HR professoinals and college students."
+published: true
 ---
+
