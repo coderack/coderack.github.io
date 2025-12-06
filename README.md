@@ -11,6 +11,6 @@ bundle exec jekyll serve
 
 ## Deployment
 
-GitHub Pages is deployed with the workflow defined in `.github/workflows/pages.yml`. The action runs on every push to `main`, builds the site with Ruby 3.3, and publishes the `_site` artifact via `actions/deploy-pages@v4`.
+GitHub Pages is deployed with the workflow defined in `.github/workflows/pages.yml`. It follows the official [Actions starter workflow](https://github.com/actions/starter-workflows/blob/main/pages/jekyll.yml), using `actions/jekyll-build-pages@v1` plus `actions/deploy-pages@v4` whenever you push to `main` (or dispatch manually from the **Actions** tab).
 
-If you make dependency or configuration changes, push them to `main` and the workflow will rebuild and redeploy automatically. You can also trigger it manually from the **Actions** tab using the “Run workflow” button.
+Any dependency or configuration change committed to `main` is automatically rebuilt and published through that workflow—no local build artifacts need to be checked in.
