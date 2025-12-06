@@ -63,7 +63,7 @@ defaults:
       layout: page
 
 permalink: /posts/:title/
-paginate: 10
+paginate: 3
 paginate_path: /page:num/
 
 plugins:

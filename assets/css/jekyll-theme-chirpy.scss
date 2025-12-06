@@ -1,0 +1,26 @@
+---
+---
+
+/* prettier-ignore */
+@use 'main
+{%- if jekyll.environment == 'production' -%}
+  .bundle
+{%- endif -%}
+';
+
+/* append your custom style below */
+
+@import url('https://fonts.googleapis.com/css2?family=Bellota+Text:ital,wght@0,300;0,400;0,700;1,300;1,400;1,700&display=swap');
+
+body {
+  font-family: 'Bellota Text', sans-serif !important;
+}
+
+h1, h2, h3, h4, h5, h6, p, span, div, a, li, td, th, input, textarea, button, label, .post-content, .post-title, .post-meta, .site-title, .site-subtitle {
+  font-family: 'Bellota Text', sans-serif !important;
+}
+
+/* Exclude icon fonts */
+i[class*="fa"], i[class*="fas"], i[class*="far"], i[class*="fab"], [class*="icon"] {
+  font-family: "Font Awesome 6 Free", "Font Awesome 6 Brands", "Font Awesome 5 Free", "Font Awesome 5 Brands" !important;
+}

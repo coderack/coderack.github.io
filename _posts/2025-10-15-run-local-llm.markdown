@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Run a Local AI Copilot"
-date: 2025-12-06 14:00:00 -0500
+date: 2025-10-15 14:00:00 -0500
 categories: [AI]
 tags: [Tools, Productivity]
 ---

@@ -1,3 +1,4 @@
+---
 layout: post
 title: "Dia Is Compressing My Workflows"
 date: 2025-11-22 09:00:00 -0500

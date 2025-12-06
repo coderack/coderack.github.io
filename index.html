@@ -1,4 +1,40 @@
 ---
-layout: home
-title: Home
+layout: page
 ---
+
+<div class="post-content">
+  <p>Welcome to my semi-professional corner of the internet. This is where I share thoughts on <strong>AI</strong>, <strong>Healthcare</strong>, <strong>data</strong>, and <strong>engineering management</strong>—keeping it light but informative. Every now and then, you might even find a post or two written to my kids.</p>
+
+  <p>I also consult and help lend my technical expertise to other ventures. If you think I can be helpful, feel free to reach out at <a href="mailto:hello@coderack.com">hello@coderack.com</a>.</p>
+
+  <p>You can <a href="https://calendly.com/YOUR-USERNAME">book a paid consultation</a> directly, or if you email me, I'll send you a code to book for free.</p>
+</div>
+
+<hr style="margin: 2rem 0;">
+
+<h2>Recent Posts</h2>
+
+<div class="post-list">
+  {% for post in site.posts limit:3 %}
+    <article class="post-item">
+      <h3 class="post-item-title">
+        <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+      </h3>
+      <div class="post-meta">
+        <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %d, %Y" }}</time>
+        {% if post.categories.size > 0 %}
+          <span class="post-categories">
+            {% for category in post.categories %}
+              <span class="category">{{ category }}</span>
+            {% endfor %}
+          </span>
+        {% endif %}
+      </div>
+      {% if post.excerpt %}
+        <div class="post-excerpt">
+          {{ post.excerpt }}
+        </div>
+      {% endif %}
+    </article>
+  {% endfor %}
+</div>

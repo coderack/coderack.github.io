@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Focus Over Hustle"
-date: 2025-12-06 08:30:00 -0500
+date: 2025-11-06 08:30:00 -0500
 categories: [Leadership]
 tags: [Culture, Productivity]
 ---
