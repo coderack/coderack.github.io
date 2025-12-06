@@ -2,7 +2,8 @@
 layout: post
 title:  "New Site (Finally)!"
 date:   2021-01-24 10:54:03 -0500
-categories: Welcome
+categories: [Welcome]
+tags: []
 ---
 
 # New Year, New Site

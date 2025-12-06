@@ -1,0 +1,12 @@
+- name: Email
+  url: mailto:hello@coderack.com
+  icon: fas fa-envelope
+- name: GitHub
+  url: https://github.com/mattracki
+  icon: fab fa-github
+- name: Twitter
+  url: https://twitter.com/racki_matt
+  icon: fab fa-twitter
+- name: LinkedIn
+  url: https://www.linkedin.com/in/racki/
+  icon: fab fa-linkedin
