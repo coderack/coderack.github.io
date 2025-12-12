@@ -87,4 +87,5 @@ comments:
   provider: ""
 
 analytics:
-  provider: ""
+  google:
+    id: G-SB33691DPV
